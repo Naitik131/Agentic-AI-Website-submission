@@ -1,4 +1,4 @@
-const API_KEY = "YOUR_GEMINI_API_KEY";
+const API_KEY = "MY_API_KEY";
 
 const button = document.getElementById("generateBtn");
 const goalInput = document.getElementById("goal");
