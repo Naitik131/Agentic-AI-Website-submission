@@ -1,0 +1,9 @@
+{
+  "name": "smart-task-planner",
+  "version": "1.0.0",
+  "description": "Week 3 Smart Task Planner using Gemini API",
+  "scripts": {
+    "start": "npx serve ."
+  },
+  "dependencies": {}
+}
